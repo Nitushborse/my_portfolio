@@ -23,7 +23,7 @@ export default function Hero() {
 
           <div className="flex flex-wrap gap-4">
             <a href="#projects"><Button className="shadow-lg">View Projects</Button></a>
-            <a href="/resume.pdf" target="_blank"><Button variant="outline">Download Resume</Button></a>
+            <a href="/Bhavesh_Resume.pdf" target="_blank"><Button variant="outline">Download Resume</Button></a>
           </div>
 
 
